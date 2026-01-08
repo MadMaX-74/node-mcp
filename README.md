@@ -1,2 +1,2 @@
-# node-map
-starter for node map
+# node-mcp
+starter for node mcp
